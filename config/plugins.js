@@ -19,8 +19,6 @@ module.exports = ({ env }) => ({
       },
     },
   });
-module.exports = ({ env }) => ({
-  // ...
   "strapi-chatgpt": {
     enabled: true,
   },
